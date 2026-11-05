@@ -1,3 +1,4 @@
+package app;
 import java.util.Scanner;
 import java.time.LocalDateTime;
 import excepciones.*;
